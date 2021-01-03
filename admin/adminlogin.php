@@ -8,7 +8,7 @@ if(!empty($_POST['user']) && !empty($_POST['pass'])) {
 	$user=$_POST['user'];
 	$pass=$_POST['pass'];
     
-    $db = mysqli_connect("localhost","root","","car_showroom");
+    $db = mysqli_connect("car.cqn8jr4zs6zp.us-east-1.rds.amazonaws.com","admin","12345678","carshowroom");
     
 	$query=mysqli_query($db,"SELECT * FROM admin WHERE admin_name='".$user."' AND admin_pass='".$pass."'");
     

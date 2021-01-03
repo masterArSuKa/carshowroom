@@ -86,7 +86,7 @@ if(!isset($_SESSION["admin_name"]))
                         <th class = "text-center">DATE OF ORDER</th>
                        </tr>
                               <?php
-                                    $db=mysqli_connect("localhost","root","","car_showroom");
+                                    $db=mysqli_connect("car.cqn8jr4zs6zp.us-east-1.rds.amazonaws.com","admin","12345678","carshowroom");
                                     
                                     //to the  orders    
                                     $getorders= mysqli_query($db, "SELECT * from sale2 ");
