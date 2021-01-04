@@ -105,7 +105,7 @@ session_start();
 <div class="header-bottom">
 	<div class="wrap">
 		<div class="single">
-				<div class="box_wrapper"><h1>Chevrolet Cruze : (Rs  13.38 - 14.2 Lakh*)</h1></div>
+				<div class="box_wrapper"><h1>Chevrolet Cruze : (€ 13.38k - 14.2k*)</h1></div>
 				    <div class="single-top"> 	
 		  				<div class="lsidebar span_1_of_s">
 					   		<div id="container">
@@ -208,7 +208,7 @@ session_start();
                                 <td>
                                    Chevrolet India will discontinue sales of all of its products in India effective December 31, 2017. Its Indian facilities will be utilised for export markets only.
 Chevrolet has revealed the power and fuel-efficiency figures of the new 1.6-litre Ecotec diesel motor of the upcoming second-generation Cruze. The engine puts out 138PS of max power and 325Nm of peak torque. It returns a certified fuel-efficiency of 22kmpl (highway). This diesel engine comes paired with an option of a new nine-speed automatic (Hydra-Matic 9T50 nine-speed) or a standard six-speed manual.  
-Speaking of the present model, the facelifted Chevrolet Cruze was launched ahead of the 2016 Indian Auto Expo in January at Rs 14.68 lakh (ex-showroom, New Delhi). Soon, after a few weeks, the Cruze's prices were slashed and it now starts at Rs 13.95 lakh (ex-showroom, New Delhi). Speaking of the major additions in the 2016 Chevrolet Cruze, the updated sedan offers new grille, daytime running LEDs, projector fog lamps and seven-inch MyLink infotainment system, among others. Mechanically, the 2016 Cruze remains unchanged with the 2.0-litre VCDi diesel engine that produces 166PS of power along with 380Nm of torque and comes with an option of a six-speed manual or automatic transmission. 
+Speaking of the present model, the facelifted Chevrolet Cruze was launched ahead of the 2016 Indian Auto Expo in January at € 14.68k (ex-showroom, New Delhi). Soon, after a few weeks, the Cruze's prices were slashed and it now starts at € 13.95k (ex-showroom, New Delhi). Speaking of the major additions in the 2016 Chevrolet Cruze, the updated sedan offers new grille, daytime running LEDs, projector fog lamps and seven-inch MyLink infotainment system, among others. Mechanically, the 2016 Cruze remains unchanged with the 2.0-litre VCDi diesel engine that produces 166PS of power along with 380Nm of torque and comes with an option of a six-speed manual or automatic transmission. 
                                 </td>
                             </tr>
                         </tbody>

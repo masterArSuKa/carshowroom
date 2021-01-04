@@ -106,7 +106,7 @@ session_start();
 <div class="header-bottom">
 	<div class="wrap">
 		<div class="single">
-				<div class="box_wrapper"><h1>Audi Q7 : (Rs  71.08 - 82.07 Lakh*)</h1></div>
+				<div class="box_wrapper"><h1>Audi Q7 : ( € 71.08k - 82.07k *)</h1></div>
 				    <div class="single-top"> 	
 		  				<div class="lsidebar span_1_of_s">
 					   		<div id="container">
@@ -207,7 +207,7 @@ session_start();
                         <tbody>
                             <tr>
                                 <td>
-                                    Audi India has launched the petrol-powered Q7 40 TFSI in the country. The company has launched it in two trim levels - Premium Plus and Technology. While the former is priced at Rs 67.76 lakh, the latter will cost you Rs 74.43 lakh (both prices, ex-showroom).
+                                    Audi India has launched the petrol-powered Q7 40 TFSI in the country. The company has launched it in two trim levels - Premium Plus and Technology. While the former is priced at € 67.76k, the latter will cost you € 74.43k (both prices, ex-showroom).
 Both variants are powered by the same 2.0-litre, turbocharged petrol engine. It is tuned to produce 252PS of maximum power and 370Nm of peak torque. It comes mated to an 8-speed Tiptronic automatic transmission that sends power to all four wheels via Audi's quattro drive system. The petrol-powered Q7 accelerates from 0-100kmph in 6.8 seconds, which is 0.3 seconds faster than its diesel-powered sibling, the 45 TDI. The certified mileage for the petrol Q7 is clocked at 11.68kmpl.
 As far as features are concerned, they are identical to the ones found on the diesel-fed variants - the 45 TDI Quattro Premium Plus and the 45 TDI Quattro Technology. The list includes a 360-degree surround-view camera, dynamic LED headlamps, electronically controlled air suspension with variable damping and a panoramic sunroof. While the Q7 Premium Plus trim makes do with 18-inch alloy wheels and Audi's own music system, the Technology trim gets 19-inch alloys, Matrix LED headlamps, a Bose 3D sound system and a MMI navigation Plus kit which includes an 8.3-inch touchscreen display with on-board GPS navigation system.
 The list of rivals for the seven-seater Audi Q7 40 TFSI includes the BMW X5 xDrive35i, Jeep Grand Cherokee and the Mercedes-Benz GLE 400 4MATIC.
