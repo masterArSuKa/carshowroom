@@ -51,7 +51,7 @@ if(!isset($_SESSION["s_name"]))
 					 <li class="active"><a href="indexlogin.php">Home</a></li>
                      <li><a href="services.php">Brands</a></li>
                      <li><a href="booking.php">Book</a></li>
-                     <li><a href="orders.php">Orders List</a></li>
+                     <li><a href="orders.php">Orders</a></li>
                      <li><a href="logout.php">logout</a></li>
                      
                      
@@ -62,7 +62,7 @@ if(!isset($_SESSION["s_name"]))
 						
 		</div>	
 		
-		
+		                      
 		<div class="clear"></div> 
 	   </div>
 	  </div>	
