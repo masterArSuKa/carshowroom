@@ -106,7 +106,7 @@ session_start();
 <div class="header-bottom">
 	<div class="wrap">
 		<div class="single">
-				<div class="box_wrapper"><h1>BMW i8  : (Rs  2.62 Cr*)</h1></div>
+				<div class="box_wrapper"><h1>BMW i8  : (€ 262k*)</h1></div>
 				    <div class="single-top"> 	
 		  				<div class="lsidebar span_1_of_s">
 					   		<div id="container">
@@ -151,7 +151,7 @@ session_start();
 
                                        </tr>
                                        <tr>
-                                           <td>Service Cost: Rs 60,875/yr</td>
+                                           <td>Service Cost: € 608/yr</td>
                                            <td>No. of cylinders : 3</td>
 
                                        </tr>

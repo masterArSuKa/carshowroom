@@ -107,7 +107,7 @@ session_start();
 <div class="header-bottom">
 	<div class="wrap">
 		<div class="single">
-				<div class="box_wrapper"><h1>BMW M Series M4 Coupe : (Rs 1.29 Cr*)</h1></div>
+				<div class="box_wrapper"><h1>BMW M Series M4 Coupe : (€ 129k*)</h1></div>
 				    <div class="single-top"> 	
 		  				<div class="lsidebar span_1_of_s">
 					   		<div id="container">
@@ -152,7 +152,7 @@ session_start();
 
                                        </tr>
                                        <tr>
-                                           <td>Service Cost: Rs 63,973/yr</td>
+                                           <td>Service Cost: € 639/yr</td>
                                            <td>No. of cylinders : 6</td>
 
                                        </tr>

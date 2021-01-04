@@ -104,7 +104,7 @@ session_start();
 <div class="header-bottom">
 	<div class="wrap">
 		<div class="single">
-				<div class="box_wrapper"><h1>Aston Martin Vulcan : (Rs  15.04 Cr*)</h1></div>
+				<div class="box_wrapper"><h1>Aston Martin Vulcan : (€ 15.04k*)</h1></div>
 				    <div class="single-top"> 	
 		  				<div class="lsidebar span_1_of_s">
 					   		<div id="container">
@@ -149,7 +149,7 @@ session_start();
 
                                        </tr>
                                        <tr>
-                                           <td>Service Cost: Rs 85,973/yr</td>
+                                           <td>Service Cost: € 859/yr</td>
                                            <td>No. of cylinders : 12</td>
 
                                        </tr>

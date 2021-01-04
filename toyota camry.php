@@ -150,7 +150,7 @@ session_start();
 
                                        </tr>
                                        <tr>
-                                           <td>Service Cost: Rs 26,453/yr</td>
+                                           <td>Service Cost: € 264/yr</td>
                                            <td>No. of cylinders : 4</td>
 
                                        </tr>
