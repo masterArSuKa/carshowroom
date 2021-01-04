@@ -106,7 +106,7 @@ session_start();
 <div class="header-bottom">
 	<div class="wrap">
 		<div class="single">
-				<div class="box_wrapper"><h1>Audi R8 : (Rs 263k*)</h1></div>
+				<div class="box_wrapper"><h1>Audi R8 : (€ 263k*)</h1></div>
 				    <div class="single-top"> 	
 		  				<div class="lsidebar span_1_of_s">
 					   		<div id="container">

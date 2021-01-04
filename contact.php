@@ -39,7 +39,7 @@
 			<div class="heading">
 				<h3>Contact Us</h3>
 				<p>If you have any query, please contact us by filling the form below .
-				    We will respond you as soon as posible!  </p>
+				    We will respond you as soon as possible!  </p>
 			</div>
 			<div class="section group">
 				<div class="col span_2_of_contact">
@@ -67,10 +67,6 @@
   				</div>
 				<div class="col span_1_of_3">
 				  <div class="company_address">
-				     	<h3>Address</h3>
-						    	<p>CMR Institute of Technology</p>
-						   		<p>Kundanhalli Gate, ITPL road,</p>
-						   		<p>Banglore</p>
 				   		<p>Phone:(00) 111 222 333</p>
 				   		<p>Fax: (000) 000 00 00 0</p>
 				 	 	<p>Email: <span>info@autoexpress.com</span></p>
